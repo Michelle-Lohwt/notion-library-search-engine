@@ -1,7 +1,7 @@
 # Notion Library Search Engine
-Author: Michelle Loh
-Date: 30 Oct 2022
-
+Author: Michelle Loh <br>
+Date: 30 Oct 2022 <br>
+Description: <br>
 I created my own library using Notion and was planning to make a book recommendation system for myself. However, I do not have data from other users to do the recommendation system, so I have stopped my project until search engine using TFID.
 
 
