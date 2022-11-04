@@ -16,3 +16,7 @@ https://user-images.githubusercontent.com/60863955/198881431-1a0ae121-1025-4e72-
 5. Paste in the `token` and `databaseId` in the `SECRET.json` file
 6. Run all the codes in `notionDB.ipynb`
 7. Run all the codes in `data.ipynb`
+
+## Reason to choose TFIDF
+1. The frequency of words such as "the" and "and" can appear more frequently than the rarely appearing words.
+2. TFIDF can be used to reduce the weight of tokens which appear frequently compared to tokens which appear rarely.
